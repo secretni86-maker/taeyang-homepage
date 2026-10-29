@@ -38,6 +38,6 @@ window.SITE = {
     { file: "permit-5", caption: "태양광 허가" },
     { file: "permit-6", caption: "각종 인허가" },
     { file: "permit-7", caption: "토목설계" },
-    { file: "permit-8", caption: "토지현황 측량" }
+    { file: "permit-8", caption: "현황측량" }
   ]
 };
