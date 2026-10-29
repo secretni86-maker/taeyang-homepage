@@ -12,7 +12,7 @@ window.SITE = {
   kakaoUrl: "https://open.kakao.com/o/s1mMeIUi",
 
   // 사무실 주소 (비워두면 화면에 표시하지 않습니다)
-  address: "충청북도 청주시 청원구 충청대로 141 10동 202호",
+  address: "충청북도 청주시 청원구 충청대로 141, 10-202 (율량동, 럭키상가)",
 
   // 위치 안내 한 줄 (필요 없으면 "" 로 비우세요)
   addressNote: "신흥고등학교 맞은편 럭키아파트 상가 2층",
@@ -29,16 +29,15 @@ window.SITE = {
   // 문자 상담 버튼을 눌렀을 때 미리 들어가는 문구
   smsText: "[홈페이지 문의] 토지 개발 관련 상담 부탁드립니다.\n- 토지 위치(지번):\n- 하려는 일:\n- 성함:",
 
-  // 현장 사진 목록 (사진은 images 폴더에 gallery-1.jpg ~ gallery-9.jpg 로 넣으면 자동 교체)
+  // 현장 사진 목록 (사진은 images 폴더에 permit-1.jpg ~ permit-8.jpg 로 넣으면 자동 교체)
   gallery: [
-    { file: "gallery-1", caption: "현장 측량" },
-    { file: "gallery-2", caption: "농지 현황" },
-    { file: "gallery-3", caption: "공장 부지" },
-    { file: "gallery-4", caption: "측량 도면 작성" },
-    { file: "gallery-5", caption: "경계 확인" },
-    { file: "gallery-6", caption: "허가 서류 준비" },
-    { file: "gallery-7", caption: "측량 작업" },
-    { file: "gallery-8", caption: "산업단지 부지" },
-    { file: "gallery-9", caption: "부지 계획 상담" }
+    { file: "permit-1", caption: "개발행위 허가" },
+    { file: "permit-2", caption: "산지전용 허가" },
+    { file: "permit-3", caption: "농지전용 허가" },
+    { file: "permit-4", caption: "공장설립 허가" },
+    { file: "permit-5", caption: "태양광 허가" },
+    { file: "permit-6", caption: "각종 인허가" },
+    { file: "permit-7", caption: "토목설계" },
+    { file: "permit-8", caption: "토지현황 측량" }
   ]
 };
