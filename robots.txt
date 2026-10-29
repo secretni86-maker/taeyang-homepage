@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://secretni86-maker.github.io/taeyang-homepage/sitemap.xml
